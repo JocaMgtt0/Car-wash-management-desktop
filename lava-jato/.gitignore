@@ -1,0 +1,13 @@
+# Build output
+/bin/
+*.class
+
+# Credenciais locais (use db.properties.example como modelo)
+db.properties
+
+# Eclipse
+.settings/
+
+# OS
+Thumbs.db
+.DS_Store
